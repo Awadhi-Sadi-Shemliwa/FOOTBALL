@@ -6,9 +6,9 @@ The analysis explores shot location and context, evaluates probability quality, 
 
 ## Project files
 
-- [Analysis notebook](portolio_project1_of_FOOTBALL/football_expected_goals_analysis.ipynb)
-- [Interactive walkthrough](portolio_project1_of_FOOTBALL/football_expected_goals_animation.html)
-- [Original project notes](portolio_project1_of_FOOTBALL/football_expected_goals_README.md)
+- [Analysis notebook](football_expected_goals_analysis.ipynb)
+- [Interactive walkthrough](football_expected_goals_animation.html)
+- [Original project notes](football_expected_goals_README.md)
 
 ## Headline result
 
